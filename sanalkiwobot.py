@@ -1236,6 +1236,7 @@ def main():
     # Run the bot until the process receives SIGINT, SIGTERM or SIGABRT
     updater.idle()
 
+# TODO: Should the globals be defined inside the "if name == main" block?
 
 # Deduce if the program is run locally or is deployed (currently on Heroku):
 DEPLOYED = bool(os.environ.get("DEPLOYED", default=False))
