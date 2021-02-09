@@ -1,0 +1,3 @@
+This directory holds various data to be accessed later by the bot. The comments and warnings regarding each file can be found in the code where they are first imported.
+
+Note that if the database files are altered manually while the bot is running, the changes won't be reflected in the program until it is restarted. If a manual change must be made, the bot should be stopped and must be restarted for the changes to take effect.

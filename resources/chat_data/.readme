@@ -1,0 +1,6 @@
+This directory holds specific lists of chat IDs.
+The list "admin_chats" is only read and not modified in the program.
+The lists "annc_blist" and "chats" are expected to end with empty lines so that they can be written to properly (see the db_add function).
+The comments and warnings regarding each database can be found in the code where they are first imported.
+
+Note that if the database files are altered manually while the bot is running, the changes won't be reflected in the program until it is restarted. If a manual change must be made, the bot should be stopped and must be restarted for the changes to take effect.

@@ -1,0 +1,4 @@
+git+git://github.com/carpedm20/emoji@d73e306#emoji
+pandas==1.0.3
+python-telegram-bot==12.8
+requests==2.21.0

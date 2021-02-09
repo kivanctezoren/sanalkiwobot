@@ -1,0 +1,16 @@
+gruplarda veya özelden bazı basit diyaloglara yanıt veriyorum\. selam verin, hal hatır sorun ve yapay zekayı iliklerinizde hissedin\.
+
+teknolojimin diğer nimetleri de saymakla bitmiyor:
+
+*/corona \[ülke adı\]*
+ülkenin koronavirüs salgın verilerini araştırırım\. ülke verilmezse varsayılan ülke türkiye'dir\.
+
+bu komut yazışırken de çalıştırılabilir\.
+örneğin: _"kiwo, almanyada korona nasıl?"_, _"kiwo covid rusyada ne alemde"_ vs\.\.\.
+özelden hitap ve soru kelimeleri kullanmaya gerek olmadan da anlaşabiliriz\.
+örneğin: _"almanya korona"_, _"rusya covid"_ vs\.\.\.
+
+*/abonelik*
+özelliklerimle ilgili duyurulara abonelik durumunuzu bu komutla değiştirebilirsiniz\.
+
+\.\.\.daha fazla komut yolda\.

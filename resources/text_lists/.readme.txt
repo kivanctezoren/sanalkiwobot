@@ -1,0 +1,5 @@
+This folder holds string lists to be used as a database for word recognition and specific replies. The comments and warnings regarding each database can be found in the code where they are first imported.
+
+The lines matching the ones specified in db_read definition will be skipped. "#%#" is chosen as a comment indicator.
+For dictionaries, the lines will be processed in pairs: first the key, then the corresponding value, and then the next key, and so on.
+

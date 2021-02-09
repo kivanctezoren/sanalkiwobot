@@ -1,0 +1,906 @@
+afganistan
+Afghanistan
+
+arnavutluk
+Albania
+
+arnavut
+Albania
+
+cezayir
+Algeria
+
+andorra
+Andorra
+
+andora
+Andorra
+
+angola
+Angola
+
+antigua ve barbuda
+Antigua and Barbuda
+
+antigua
+Antigua and Barbuda
+
+barbuda
+Antigua and Barbuda
+
+arjantin
+Argentina
+
+ermenistan
+Armenia
+
+ermeni
+Armenia
+
+avustralya
+Australia
+
+avusturalya
+Australia
+
+avusturya
+Austria
+
+azerbaycan
+Azerbaijan
+
+azerbeycan
+Azerbaijan
+
+azeri
+Azerbaijan
+
+bahamalar
+Bahamas
+
+bahreyn
+Bahrain
+
+bangladeş
+Bangladesh
+
+banglades
+Bangladesh
+
+barbados
+Barbados
+
+belarus
+Belarus
+
+belçika
+Belgium
+
+belcika
+Belgium
+
+belize
+Belize
+
+benin
+Benin
+
+bhutan
+Bhutan
+
+bolivya
+Bolivia
+
+bosna hersek
+Bosnia and Herzegovina
+
+bosna-hersek
+Bosnia and Herzegovina
+
+bosna
+Bosnia and Herzegovina
+
+bosnia
+Bosnia and Herzegovina
+
+hersek
+Bosnia and Herzegovina
+
+herzegovina
+Bosnia and Herzegovina
+
+botsvana
+Botswana
+
+brezilya
+Brazil
+
+bruney
+Brunei
+
+brunei
+Brunei
+
+bulgaristan
+Bulgaria
+
+bulgar
+Bulgaria
+
+burkina faso
+Burkina Faso
+
+burkina
+Burkina Faso
+
+burma
+Burma
+
+burundi
+Burundi
+
+cabo verde
+Cabo Verde
+
+yeşilburun adaları
+Cabo Verde
+
+yesilburun adalari
+Cabo Verde
+
+yeşil burun adaları
+Cabo Verde
+
+yesil burun adalari
+Cabo Verde
+
+yeşilburun
+Cabo Verde
+
+yesilburun
+Cabo Verde
+
+yeşil burun
+Cabo Verde
+
+yesil burun
+Cabo Verde
+
+cape verde
+Cabo Verde
+
+kamboçya
+Cambodia
+
+kambocya
+Cambodia
+
+kamerun
+Cameroon
+
+kanada
+Canada
+
+orta afrika cumhuriyeti
+Central African Republic
+
+orta afrika
+Central African Republic
+
+central africa
+Central African Republic
+
+çad
+Chad
+
+cad
+Chad
+
+şili
+Chile
+
+sili
+Chile
+
+çin
+China
+
+cin
+China
+
+kolombiya
+Colombia
+
+komorlar
+Comoros
+
+kongo
+Congo (Brazzaville)
+
+kongo-brazzaville
+Congo (Brazzaville)
+
+brazzaville
+Congo (Brazzaville)
+
+kongo demokratik cumhuriyeti
+Congo (Kinshasa)
+
+kongo demokratik
+Congo (Kinshasa)
+
+demokratik kongo
+Congo (Kinshasa)
+
+kongo-kinshasa
+Congo (Kinshasa)
+
+kinshasa
+Congo (Kinshasa)
+
+kosta rika
+Costa Rica
+
+fildişi sahili
+Cote d'Ivoire
+
+fildişi
+Cote d'Ivoire
+
+fildisi
+Cote d'Ivoire
+
+kotdivuar
+Cote d'Ivoire
+
+hırvatistan
+Croatia
+
+hirvatistan
+Croatia
+
+küba
+Cuba
+
+kuba
+Cuba
+
+kıbrıs
+Cyprus
+
+kibris
+Cyprus
+
+çekya
+Czechia
+
+cekya
+Czechia
+
+çek
+Czechia
+
+cek
+Czechia
+
+danimarka
+Denmark
+
+diamond princess
+Diamond Princess
+
+diamond
+Diamond Princess
+
+cibuti
+Dijbouti
+
+dominika
+Dominica
+
+dominik
+Dominican Republic
+
+ekvator
+Ecuador
+
+mısır
+Egypt
+
+misir
+Egypt
+
+el salvador
+El Salvador
+
+salvador
+El Salvador
+
+ekvator ginesi
+Equatorial Guinea
+
+eritre
+Eritrea
+
+estonya
+Estonia
+
+esvatini
+Eswatini
+
+etiyopya
+Ethiopia
+
+fiji
+Fiji
+
+finlandiya
+Finland
+
+fransa
+France
+
+gabon
+Gabon
+
+gambiya
+Gambia
+
+gürcistan
+Georgia
+
+gurcistan
+Georgia
+
+almanya
+Germany
+
+alman
+Germany
+
+gana
+Ghana
+
+yunanistan
+Greece
+
+grenada
+Grenada
+
+guatemala
+Guatemala
+
+gine
+Guinea
+
+gine-bissau
+Guinea-Bissau
+
+bissau
+Guinea-Bissau
+
+guyana
+Guyana
+
+haiti
+Haiti
+
+vatikan
+Holy See
+
+vatican
+Holy See
+
+honduras
+Honduras
+
+macaristan
+Hungary
+
+izlanda
+Iceland
+
+hindistan
+India
+
+hint
+India
+
+endonezya
+Indonesia
+
+iran
+Iran
+
+ırak
+Iraq
+
+irak
+Iraq
+
+irlanda
+Ireland
+
+israil
+Israel
+
+italya
+Italy
+
+jamaika
+Jamaica
+
+japonya
+Japan
+
+ürdün
+Jordan
+
+urdun
+Jordan
+
+kazakistan
+Kazakhstan
+
+kenya
+Kenya
+
+güney kore
+Korea, South
+
+guney kore
+Korea, South
+
+kore
+Korea, South
+
+kosova
+Kosovo
+
+kuveyt
+Kuwait
+
+kırgızistan
+Kyrgyzstan
+
+kirgizistan
+Kyrgyzstan
+
+laos
+Laos
+
+letonya
+Latvia
+
+lübnan
+Lebanon
+
+lubnan
+Lebanon
+
+lesotho
+Lesotho
+
+lesoto
+Lesotho
+
+liberya
+Liberia
+
+libya
+Libya
+
+lihtenştayn
+Liechtenstein
+
+lihtenstayn
+Liechtenstein
+
+litvanya
+Lithuania
+
+lüksemburg
+Luxembourg
+
+luksemburg
+Luxembourg
+
+ms zaandam
+MS Zaandam
+
+zaandam
+MS Zaandam
+
+madagaskar
+Madagascar
+
+malavi
+Malawi
+
+malezya
+Malaysia
+
+maldivler
+Maldives
+
+mali
+Mali
+
+malta
+Malta
+
+marşal adaları
+Marshall Islands
+
+marsal adalari
+Marshall Islands
+
+marşal
+Marshall Islands
+
+marsal
+Marshall Islands
+
+marshall
+Marshall Islands
+
+moritanya
+Mauritania
+
+morityus
+Mauritius
+
+meksika
+Mexico
+
+mikronezya
+Micronesia
+
+moldova
+Moldova
+
+monako
+Monaco
+
+moğolistan
+Mongolia
+
+karadağ
+Montenegro
+
+karadag
+Montenegro
+
+fas
+Morocco
+
+mozambik
+Mozambique
+
+namibya
+Namibia
+
+nepal
+Nepal
+
+hollanda
+Netherlands
+
+yeni zelanda
+New Zealand
+
+zelanda
+New Zealand
+
+nikaragua
+Nicaragua
+
+nijer
+Niger
+
+nijerya
+Nigeria
+
+kuzey makedonya
+North Makedonia
+
+makedonya
+North Makedonia
+
+norveç
+Norway
+
+norvec
+Norway
+
+umman
+Oman
+
+pakistan
+Pakistan
+
+panama
+Panama
+
+papua yeni gine
+Papua New Guinea
+
+papua
+Papua New Guinea
+
+paraguay
+Paraguay
+
+peru
+Peru
+
+filipinler
+Philippines
+
+polonya
+Poland
+
+portekiz
+Portugal
+
+katar
+Qatar
+
+romanya
+Romania
+
+rusya
+Russia
+
+ruanda
+Rwanda
+
+saint kitts ve nevis
+Saint Kitts and Nevis
+
+kitts
+Saint Kitts and Nevis
+
+nevis
+Saint Kitts and Nevis
+
+saint lucia
+Saint Lucia
+
+lucia
+Saint Lucia
+
+saint vincent ve grenadinler
+Saint Vincent and the Grenadines
+
+vincent
+Saint Vincent and the Grenadines
+
+grenadin
+Saint Vincent and the Grenadines
+
+grenadinler
+Saint Vincent and the Grenadines
+
+samoa
+Samoa
+
+san marino
+San Marino
+
+sao tome ve prinsipe
+Sao Tome and Principe
+
+suudi arabistan
+Saudi Arabia
+
+arabistan
+Saudi Arabia
+
+suudi
+Saudi Arabia
+
+arap
+Saudi Arabia
+
+senegal
+Senegal
+
+sırbistan
+Serbia
+
+sirbistan
+Serbia
+
+seyşeller
+Seychelles
+
+seyseller
+Seychelles
+
+sierra leone
+Sierra Leone
+
+singapur
+Singapore
+
+slovakya
+Slovakia
+
+slovenya
+Slovenia
+
+solomon adaları
+Solomon Islands
+
+solomon adalari
+Solomon Islands
+
+somali
+Somalia
+
+güney afrika cumhuriyeti
+South Africa
+
+guney afrika cumhuriyeti
+South Africa
+
+güney afrika
+South Africa
+
+guney afrika
+South Africa
+
+güney sudan
+South Sudan
+
+guney sudan
+South Sudan
+
+ispanya
+Spain
+
+sri lanka
+Sri Lanka
+
+sudan
+Sudan
+
+surinam
+Suriname
+
+isveç
+Sweden
+
+isvec
+Sweden
+
+isviçre
+Switzerland
+
+isvicre
+Switzerland
+
+suriye
+Syria
+
+tacikistan
+Tajikistan
+
+tanzanya
+Tanzania
+
+tayland
+Thailand
+
+doğu timor
+Timor-Leste
+
+timor
+Timor-Leste
+
+leste
+Timor-Leste
+
+timor-leste
+Timor-Leste
+
+togo
+Togo
+
+trinidad ve tobago
+Trinidad and Tobago
+
+tunus
+Tunisia
+
+türkiye
+Turkey
+
+turkiye
+Turkey
+
+abd
+US
+
+amerika
+US
+
+us
+US
+
+uganda
+Uganda
+
+ukrayna
+Ukraine
+
+ukranya
+Ukraine
+
+birleşik arap emirlikleri
+United Arab Emirates
+
+birlesik arap emirlikleri
+United Arab Emirates
+
+bae
+United Arab Emirates
+
+emirates
+United Arab Emirates
+
+ingiltere
+United Kingdom
+
+uk
+United Kingdom
+
+uruguay
+Uruguay
+
+özbekistan
+Uzbekistan
+
+ozbekistan
+Uzbekistan
+
+vanuatu
+Vanuatu
+
+venezuela
+Venezuela
+
+vietnam
+Vietnam
+
+batı şeria ve gazze
+West Bank and Gaza
+
+şeria
+West Bank and Gaza
+
+seria
+West Bank and Gaza
+
+gazze
+West Bank and Gaza
+
+gaza
+West Bank and Gaza
+
+west bank
+West Bank and Gaza
+
+westbank
+West Bank and Gaza
+
+yemen
+Yemen
+
+zambiya
+Zambia
+
+zimbabve
+Zimbabwe
+
