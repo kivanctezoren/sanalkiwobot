@@ -544,7 +544,8 @@ def read_incoming(update, context):
                 logger.debug("Non-admin: Exit announce_lv1")
                 reply_with("yalnız adminler duyuru yollayabilir!")
             else:
-                dict_annc_temp[chat_id] = inc.text
+                dict_annc_temp[chat_id] = inc.text + "\n\n(bu yazışmaya" \
+                    " duyuru atmamı istemiyorsanız /abonelik komutunu kullanın)"
                 
                 inc.reply_markdown_v2(
                     "şu mesajı duyuru olarak *bütün bilinen kullanıcılara*"
