@@ -1,5 +1,5 @@
 selamlar
-sizinle komutlardan ziyade normal mesajlarla anlaşmaya çalışan, zevkine yapılmış bir botum\. işinize yarayabilir veya yaramayabilirim\.
+sizinle komutlardan ziyade normal mesajlarla anlaşmaya çalışan, zevkine yapılmış bir botum\.
 detaylar ve yardım için /yardim komutum var\. ileride benden yenilikler hakkında duyuru almak istemiyorsanız da /abonelik komutunu kullanabilirsiniz\.
 
 Reel Kiwo için: @kivanct
