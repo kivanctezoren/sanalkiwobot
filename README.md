@@ -1,6 +1,6 @@
 # Sanal Kiwo[^1]
 
-*A realistic Telegram chatbot in the making*
+A Telegram chatting bot that puts emphasis on communication with text messages instead of commands.
 
 [Try it out!](https://t.me/sanalkiwobot)
 
@@ -8,11 +8,13 @@
 
 ![(Türkçe kılavuz için tıklayınız.)](./README_TR.md)
 
-The bot's main feature is that besides the commands starting with "/", it also tries to understand a command call from the regular messages. Every text message is passed to a dispatcher function named "read_incoming". If any keywords are found, the appropriate action is taken.
+## WORKING MECHANISM
 
-Using this method, the bot can reply to some chatting prompts or call one of its commands.
+Every incoming text message is passed to a dispatcher function named "read_incoming". If any keywords are found, the corresponding actions are taken. Using this method, the bot can reply to some chatting prompts or call one of its commands.
 
-### Commands:
+The traditional way of calling commands (`/command`) is also supported.
+
+## COMMANDS
 
 * **/start** (or **/baslat**) starts the bot and sends an introductory message.
 * **/help** (or **/yardim**) sends a message explaining the bot's functionalities.
@@ -20,7 +22,7 @@ Using this method, the bot can reply to some chatting prompts or call one of its
 * **/subscription** (or **/abonelik**) toggles a chat's subscription to automatic announcements from the admins.
 * **/abort** (or **/iptal**) aborts any ongoing "dialogue" between the bot and the user that involve more than one messages. That is, if the chat is in a special state, the state is cleared. (At the moment, no multiple-message dialogues exist for non-admin users.)
 
-#### Administrator commands:
+### Administrator commands:
 
 * **/db_backup** sends a backup of `resources/chat_data/` directory to the admin(s).
 * **/announce** (or **/duyur**) initiates a dialogue between the calling admin and the bot. Following the dialogue, the admin can send an announcement message to the bot's every subscribed user. The sender is asked to confirm the message before sending.

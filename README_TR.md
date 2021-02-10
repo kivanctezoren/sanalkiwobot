@@ -1,6 +1,6 @@
 # Sanal Kiwo[^1]
 
-*Yapım aşamasında, gerçekçi bir Telegram muhabbet botu*
+Komutlara kıyasla normal yazışma ile iletişime ağırlık veren bir Telegram muhabbet botu.
 
 [Yazışmayı deneyin!](https://t.me/sanalkiwobot)
 
@@ -8,12 +8,13 @@
 
 ![(Click here for the English manual.)](./README.md)
 
-Botun esas özelliği "/" ile başlayan komutların yanısıra normal mesajlardan da bir komut çağrısını anlamaya çalışmasıdır. Bütün yazılı mesajlar "read_incoming" ("geleni oku") isimli bir yönlendirici fonksiyona gönderilir. Eğer mesajda anahtar kelimelere rastlanırsa, uygun işlem yürütülür.
-Bot bu yöntemi basit konuşmalara yanıt verebilir veya komutlarından birini çağırabilir.
+## ÇALIŞMA MEKANİZMASI
 
-Using this method, the bot can reply to some chatting prompts or call one of its commands.
+Gelen bütün yazılı mesajlar "read_incoming" ("geleni oku") isimli bir yönlendirici fonksiyona gönderilir. Eğer mesajda anahtar kelimelere rastlanırsa, karşılık gelen işlemler yürütülür. Bot bu yöntem ile basit konuşmalara yanıt verebilir veya komutlarından birini çağırabilir.
 
-### Komutlar:
+Komutları geleneksel yöntemlerle çağırmak (`/komut`) da mümkündür.
+
+## KOMUTLAR
 
 * **/baslat** veya (**/start**) botu başlatır ve bir açılış mesajı gönderir.
 * **/yardim** veya (**/help**) botun özelliklerini açıklayan bir bilgilendirme mesajı gönderir.
@@ -21,7 +22,7 @@ Using this method, the bot can reply to some chatting prompts or call one of its
 * **/abonelik** (veya **/subscription**) bir yazışmanın yöneticilerden gelebilecek otomatik duyurulara aboneliğini ayarlar.
 * **/iptal** (veya **/abort**) bot ile kullanıcı arasında birden fazla mesajlık bir "diyalog" sürüyorsa bunu iptal eder. Yani, eğer konuşmaya atanan bir "hal" varsa, bu "hal" temizlenir. (Şu anda yönetici olmayan kullanıcıların bot ile girebileceği birden fazla mesajlı bir diyalog bulunmamaktadır.)
 
-#### Yönetici (Admin) komutları:
+### Yönetici (Admin) komutları:
 
 * **/db_backup** `resources/chat_data/` dizininin yedeğini yönetici(ler)e gönderir.
 * **/duyur** (veya **/announce**) çağıran admin ile bot arasında bir diyalog başlatır. Admin bu diyaloğu takip ederek botun duyurulara abone olan bütün kullanıcılarına bir duyuru mesajı gönderebilir. Gönderen kişiden duyuruyu göndermeden önce teyit etmesi istenir.
