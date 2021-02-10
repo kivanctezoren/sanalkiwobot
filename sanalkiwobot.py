@@ -1186,6 +1186,9 @@ def main():
     dp = updater.dispatcher
     jobq = updater.job_queue
     
+    global BOT_ID
+    BOT_ID = skiwobot.id
+    
     # On command messages: #
     dp.add_handler(CommandHandler({"start", "basla", "baslat"}, start))
     dp.add_handler(CommandHandler({"help", "yardim", "info"}, help_info))
@@ -1282,11 +1285,10 @@ if DEPLOYED:
 else:
     TOKEN = db_read(PATH_TOKEN, str)
 
-# Bot's ID to use in identity checks:
-# FIXME: Make this general for each bot account!
-BOT_ID = 1037880552
+# Bot ID variable to use in identity checks, initialized in main
+BOT_ID = 0
 
-# Change port if on server (heroku):
+# Change port if on server (Heroku):
 if DEPLOYED:
     PORT = int(os.environ.get("PORT", "8443"))
 
