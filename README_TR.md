@@ -1,6 +1,6 @@
 # Sanal Kiwo[^1]
 
-*Yapım aşamasında, gerçekçi bir Telegram botu*
+*Yapım aşamasında, gerçekçi bir Telegram muhabbet botu*
 
 [Yazışmayı deneyin!](https://t.me/sanalkiwobot)
 
@@ -17,7 +17,7 @@ Using this method, the bot can reply to some chatting prompts or call one of its
 
 * **/baslat** veya (**/start**) botu başlatır ve bir açılış mesajı gönderir.
 * **/yardim** veya (**/help**) botun özelliklerini açıklayan bir bilgilendirme mesajı gönderir.
-* **/corona** bir veya daha fazla ülkenin günlük COVID-19 verilerini [bu kaynaktan](https://github.com/CSSEGISandData/COVID-19) alır ve sunar. Bu komut CSV formatındaki veriyi okuyabilmek için pandas modülünü kullanır.
+* **/corona** bir veya daha fazla ülkenin günlük COVID-19 verilerini [bu kaynaktan](https://github.com/CSSEGISandData/COVID-19) alır ve sunar.
 * **/abonelik** (veya **/subscription**) bir yazışmanın yöneticilerden gelebilecek otomatik duyurulara aboneliğini ayarlar.
 * **/iptal** (veya **/abort**) bot ile kullanıcı arasında birden fazla mesajlık bir "diyalog" sürüyorsa bunu iptal eder. Yani, eğer konuşmaya atanan bir "hal" varsa, bu "hal" temizlenir. (Şu anda yönetici olmayan kullanıcıların bot ile girebileceği birden fazla mesajlı bir diyalog bulunmamaktadır.)
 

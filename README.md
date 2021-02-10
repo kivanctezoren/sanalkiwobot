@@ -16,7 +16,7 @@ Using this method, the bot can reply to some chatting prompts or call one of its
 
 * **/start** (or **/baslat**) starts the bot and sends an introductory message.
 * **/help** (or **/yardim**) sends a message explaining the bot's functionalities.
-* **/corona** presents one or more countries' daily COVID-19 data, retrieved from [this repository](https://github.com/CSSEGISandData/COVID-19). This command uses the pandas module to parse the data presented in CSV format.
+* **/corona** presents one or more countries' daily COVID-19 data, retrieved from [this repository](https://github.com/CSSEGISandData/COVID-19).
 * **/subscription** (or **/abonelik**) toggles a chat's subscription to automatic announcements from the admins.
 * **/abort** (or **/iptal**) aborts any ongoing "dialogue" between the bot and the user that involve more than one messages. That is, if the chat is in a special state, the state is cleared. (At the moment, no multiple-message dialogues exist for non-admin users.)
 
