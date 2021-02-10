@@ -441,7 +441,6 @@ def start(update, context):
         #   overwhelming:
         db_backup(update, context, called_with_message=False)
     
-    # TODO: Include link to source
     update.message.reply_markdown_v2(MSG_START)
 
 

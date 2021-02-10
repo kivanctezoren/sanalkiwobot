@@ -1,6 +1,6 @@
 selamlar
 zevkine yapılmış bi botum\. işe yarayabilir veya yaramayabilirim\.
-detaylar ve yardım için /yardim komutum var\. ileride benden yenilikler hakkında duyuru almak istemiyorsanız da /abonelik var\.
+detaylar ve yardım için /yardim komutum var\. ileride benden yenilikler hakkında duyuru almak istemiyorsanız da /abonelik komutunu kullanabilirsiniz\.
 
 Reel Kiwo için: @kivanct
-gözünüze çarpan hatalarımı veya fikirlerinizi iletebilirsiniz\.
+gözünüze çarpan hatalarımı veya fikirlerinizi iletebilir, [kaynak kodumu](https://gitlab.com/ktezoren/sanalkiwobot) inceleyebilir ve bana katkıda bulunabilirsiniz\.
