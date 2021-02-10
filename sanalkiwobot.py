@@ -354,6 +354,8 @@ def db_backup(update, context, called_with_message=True):
     administrator chat, the file is sent only to that chat.
     """
     
+    # TODO: Do not run if DB_ADMIN_CHATS is empty
+    
     if called_with_message and (update.effective_chat.id not in DB_ADMIN_CHATS):
         update.message.reply_text("yalnızca admin chatlerde!")
         return
@@ -1280,6 +1282,7 @@ else:
     TOKEN = db_read(PATH_TOKEN, str)
 
 # Bot's ID to use in identity checks:
+# FIXME: Make this general for each bot account!
 BOT_ID = 1037880552
 
 # Change port if on server (heroku):
