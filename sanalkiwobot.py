@@ -529,7 +529,7 @@ def read_incoming(update, context):
     try:
         state = dict_chat_states[chat_id]
         
-        logger.info(f"Detected chat state: {state}")
+        logger.debug(f"Detected chat state: {state}")
     except KeyError:
         logger.debug("No detected state for the chat.")
     
