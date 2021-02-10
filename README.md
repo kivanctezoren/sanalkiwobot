@@ -82,6 +82,8 @@ Empty lines and lines starting with `#%#` will be skipped. The examples below ar
 $ python sanalkiwobot.py
 ```
 
+If you wish to host on Heroku, you can use the included Procfile containing this command.
+
 ## NOTES
 
 Special types of comments can be found throughout `sanalkiwobot.py`:

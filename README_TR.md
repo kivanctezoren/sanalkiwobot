@@ -46,6 +46,8 @@ Gereken modüller:
 pip install -r requirements.txt
 ```
 
+Eğer botu Heroku'da çalıştırmak isterseniz, projede bulunan ve bu komutu içeren Procfile dosyasını kullanabilirsiniz.
+
 **2)** Bot için [bir hesap yaratın](https://core.telegram.org/bots#3-how-do-i-create-a-bot) ve bot'un token'ini alın.
 
 **3)** Eğer botu bir hosting sitesinde (örn. Heroku, Glitch...) kullanacaksanız, `DEPLOYED` ve `TOKEN` isimli ortam değişkenlerini yaratın. `DEPLOYED`ı `True`ya, `TOKEN`i bot tokeninize karşılık gelecek şekilde ayarlayın.
